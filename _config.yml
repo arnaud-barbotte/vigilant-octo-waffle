@@ -3,7 +3,9 @@ description: "Un blog simple et efficace."
 author: "Votre Nom"
 baseurl: "" # Gardez vide pour GitHub Pages
 url: "https://votre-utilisateur.github.io/mon-blog" # Remplacez par votre URL GitHub Pages
-theme: minima
 markdown: kramdown
+theme: minima
+exclude:
+  - assets/
 plugins:
   - jekyll-feed
