@@ -3,9 +3,11 @@ layout: default
 title: Accueil
 ---
 
+<link rel="stylesheet" href="/assets/style.css">
+
 # Bienvenue sur Mon Blog Minimaliste
 
-Découvrez mes derniers articles :
+Découvrez mes derniers articles ci-dessous :
 
 <ul>
   {% for post in site.posts %}
@@ -14,3 +16,5 @@ Découvrez mes derniers articles :
     </li>
   {% endfor %}
 </ul>
+
+[À propos]({{ '/about.html' | relative_url }})
