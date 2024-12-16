@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Accueil
+<link rel="stylesheet" href="/assets/style.css">
+
 ---
 
 # Bienvenue sur Mon Blog Minimaliste
