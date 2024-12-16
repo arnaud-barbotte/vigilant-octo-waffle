@@ -1,0 +1,4 @@
+title: "Mon site Markdown"
+description: "Un site simple créé avec GitHub Pages et Markdown"
+theme: minima
+markdown: kramdown
