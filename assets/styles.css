@@ -1,65 +1,107 @@
 body {
-    font-family: 'Roboto', Arial, sans-serif;
-    line-height: 1.6;
+    font-family: 'Georgia', serif;
+    font-size: 18px;
+    line-height: 1.8;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f9;
+    background-color: #fefefe;
     color: #333;
+    max-width: 750px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+}
+
+h1, h2, h3 {
+    color: #111;
+    font-weight: 600;
+    margin-bottom: 1rem;
+    line-height: 1.4;
+}
+
+h1 {
+    font-size: 2.5rem;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+h3 {
+    font-size: 1.5rem;
+}
+
+p {
+    margin-bottom: 1.5rem;
+}
+
+a {
+    color: #0078d7;
+    text-decoration: none;
+    border-bottom: 1px solid #0078d7;
+    transition: all 0.2s ease;
+}
+
+a:hover {
+    color: #0056a1;
+    border-bottom-color: #0056a1;
+}
+
+ul, ol {
+    margin: 1.5rem 0;
+    padding-left: 2rem;
+}
+
+ul li, ol li {
+    margin-bottom: 0.5rem;
+}
+
+blockquote {
+    font-style: italic;
+    border-left: 4px solid #ddd;
+    margin: 1.5rem 0;
+    padding-left: 1rem;
+    color: #555;
+}
+
+code {
+    background: #f4f4f4;
+    padding: 2px 4px;
+    border-radius: 3px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 0.95rem;
+}
+
+pre {
+    background: #f4f4f4;
+    padding: 1rem;
+    border-radius: 5px;
+    overflow-x: auto;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 0.95rem;
 }
 
 header {
-    background: linear-gradient(135deg, #6a11cb, #2575fc);
-    color: white;
-    padding: 1.5rem 0;
+    margin-bottom: 2rem;
     text-align: center;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 header h1 {
-    margin: 0;
-    font-size: 2.5rem;
-    font-weight: 300;
-}
-
-header p {
-    margin: 0.5rem 0 0;
-    font-size: 1rem;
-    font-weight: 400;
-}
-
-main {
-    max-width: 900px;
-    margin: 2rem auto;
-    padding: 2rem;
-    background: white;
-    border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-}
-
-main h1, main h2, main h3 {
-    color: #444;
-}
-
-main a {
-    color: #2575fc;
-    text-decoration: none;
-    font-weight: bold;
-}
-
-main a:hover {
-    text-decoration: underline;
+    font-size: 3rem;
+    margin-bottom: 0.5rem;
 }
 
 footer {
     text-align: center;
-    padding: 1rem;
-    margin-top: 2rem;
-    background: #6a11cb;
-    color: white;
+    margin-top: 3rem;
+    padding-top: 1rem;
+    border-top: 1px solid #ddd;
+    color: #888;
     font-size: 0.9rem;
-    box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.1);
 }
 
-footer p {
-    margin: 0;
+footer a {
+    color: #888;
+    text-decoration: none;
+    border-bottom: none;
 }
