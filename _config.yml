@@ -1,11 +1,11 @@
 title: "Mon Blog Minimaliste"
-description: "Un blog simple et efficace."
+description: "Un blog simple et élégant avec Markdown."
 author: "Votre Nom"
-baseurl: "" # Gardez vide pour GitHub Pages
-url: "https://votre-utilisateur.github.io/mon-blog" # Remplacez par votre URL GitHub Pages
-markdown: kramdown
+baseurl: "" # Laissez vide pour GitHub Pages
+url: "https://arnaud-barbotte.github.io/vigilant-octo-waffle/" # Remplacez par votre URL GitHub Pages
 theme: minima
-exclude:
-  - assets/
+markdown: kramdown
 plugins:
   - jekyll-feed
+exclude:
+  - assets/
