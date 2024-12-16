@@ -1,3 +1,8 @@
+---
+layout: default
+title: Accueil
+---
+
 # 🐙🧇 vigilant-octo-waffle
 
 Bienvenue sur mon site créé avec GitHub et Markdown !
