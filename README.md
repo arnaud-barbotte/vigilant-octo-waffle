@@ -1,7 +1,7 @@
 # vigilant-octo-waffle
-Blog
+## Blog
 
-## Template WebSite
+
 ### Hello World
 
 This is personnal blog spot
