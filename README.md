@@ -15,7 +15,7 @@ Quelques phrases à propos de vous. Parlez de votre expérience, de vos compéte
 
 **[DDB](https://www.ddb.fr)** - 2014-2020 / Directeur Artistique/Maquettiste/Retoucheur
 
-**[Groupe-Amalthéa](https://www.groupe-amalthea.fr)** 2012-2013 / Maquettiste
+**[Groupe-Amalthéa](https://www.groupe-amalthea.fr)** - 2012-2013 / Maquettiste
 
 **[Gutenberg-networks](https://www.gutenberg.agency/)** - 2009-2012 / PhotoGraveur
 
