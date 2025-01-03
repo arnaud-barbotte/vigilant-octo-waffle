@@ -11,7 +11,7 @@ Quelques phrases à propos de vous. Parlez de votre expérience, de vos compéte
 ---
 🏗️
 
-**[Appitel](https://www.appitel.fr){.btn .btn-default}** - Depuis 09/21 | Consultant en Solution APPLE
+**[Appitel](https://www.appitel.fr)** - Depuis 09/21 | Consultant en Solution APPLE
 
 **[DDB](https://www.ddb.fr)** - 2014-2020 | Directeur Artistique/Maquettiste/Retoucheur
 
