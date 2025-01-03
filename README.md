@@ -1,16 +1,3 @@
-title: "Mon Blog Minimaliste"
-description: "Un blog simple et élégant avec Markdown."
-author: "Votre Nom"
-baseurl: "" # Laissez vide pour GitHub Pages
-url: "https://arnaud-barbotte.github.io/vigilant-octo-waffle/" # Remplacez par votre URL GitHub Pages
-theme: minima
-markdown: kramdown
-plugins:
-  - jekyll-feed
-exclude:
-  - assets/
-
-
 # 🐙🧇 vigilant-octo-waffle
 Bienvenue sur mon site créé avec GitHub et Markdown !
 ## À propos
