@@ -37,8 +37,6 @@ MDM  | Apple Business  |  APPLE CERTIFIED |   |
 ---
 
 ## Langues
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
-
 Listez les langues que vous parlez (ex : Français, Anglais, etc.).
 
 ### BARBOTTE Arnaud | [✉️](mailto:votremail@example.com) | [📱](sms:+33688225022)
