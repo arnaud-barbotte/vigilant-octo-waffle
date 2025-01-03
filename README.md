@@ -2,11 +2,12 @@
 Bienvenue sur mon site créé avec GitHub et Markdown !
 ##  APPLE Solution Consultant
 
+---
 👤
 
 Quelques phrases à propos de vous. Parlez de votre expérience, de vos compétences et de vos objectifs professionnels.
 
-
+---
 🏗️
 
 **[Appitel](https://www.appitel.fr)** - Depuis 09/21 - Consultant en Solution APPLE
@@ -17,14 +18,14 @@ Quelques phrases à propos de vous. Parlez de votre expérience, de vos compéte
 
 **[Gutenberg-networks](https://www.gutenberg.agency/)** - 2009-2012 - PhotoGraveur
 
-
-## 🏫
+---
+🏫
 
 **[NextFormation](https://nextformation.com/)** - 2013 - Infographiste Multi Média
 
 **[Gobelins](https://www.gobelins.fr/)** - 2009-2012 - Infographiste
 
-
+---
 💼
 
 |   |   |   |   |   |
