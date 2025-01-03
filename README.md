@@ -37,6 +37,7 @@ Quelques phrases à propos de vous. Parlez de votre expérience, de vos compéte
 ---
 
 ## Langues
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
 
 Listez les langues que vous parlez (ex : Français, Anglais, etc.).
 
