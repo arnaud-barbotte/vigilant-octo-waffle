@@ -32,7 +32,7 @@ Quelques phrases à propos de vous. Parlez de votre expérience, de vos compéte
 |---|---|---|---|---|
 | Création  |  Suite Adobe | APPLE  | JAMF 200  |  Suite Office |
 | MDM  | Apple Business  |  APPLE CERTIFIED |   |   |
-// |   |   |   |   |   |
+{::comment} |   |   |   |   |   |{:/comment}
 
 ---
 
