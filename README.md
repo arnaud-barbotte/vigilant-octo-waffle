@@ -1,17 +1,43 @@
 
 ## 🐙 🧇
 Bienvenue sur mon site créé avec GitHub et Markdown !
-## À propos
-Ce site a été conçu pour démontrer comment utiliser un simple fichier `README.md` pour créer une page web.
-## Contenu
-- [Section 1](#section-1)
-- [Section 2](#section-2)
-- [Section 3](#section-3)
-## Section 1
-Contenu de la section 1.
-## Section 2
-Contenu de la section 2.
-## Section 3
-Contenu de la section 3.
-## Contact
-Pour me contacter, envoyez un email à [monemail@example.com](mailto:monemail@example.com).
+##  APPLE Solution Consultant
+
+---
+👤
+
+Quelques phrases à propos de vous. Parlez de votre expérience, de vos compétences et de vos objectifs professionnels.
+
+---
+🏗️
+
+**[Appitel](https://www.appitel.fr){.btn .btn-default}** - Depuis 09/21 | Consultant en Solution APPLE
+
+**[DDB](https://www.ddb.fr)** - 2014-2020 | Directeur Artistique/Maquettiste/Retoucheur
+
+**[Groupe-Amalthéa](https://www.groupe-amalthea.fr)** 2012-2013 | Maquettiste
+
+**[Gutenberg-networks](https://www.gutenberg.agency/)** - 2009-2012 | PhotoGraveur
+
+---
+## 🏫
+
+**[NextFormation](https://nextformation.com/)** - 2013 | Infographiste Multi Média
+
+**[Gobelins](https://www.gobelins.fr/)** - 2009-2012 | Infographiste
+
+---
+💼
+
+|:--------------- |:---------------:| ---------------:|
+| Création | Suite Adobe | APPLE |
+| JAMF | Suite Office | MDM |
+| Apple Business| | |
+
+---
+
+## Langues
+
+Listez les langues que vous parlez (ex : Français, Anglais, etc.).
+
+### BARBOTTE Arnaud | [✉️](mailto:votremail@example.com) | [📱](sms:+33688225022)
